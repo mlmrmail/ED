@@ -1,0 +1,22 @@
+{
+  "name": "ed",
+  "version": "1.0.0",
+  "description": "Ed project USA",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlmrmail/ED.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlmrmail/ED/issues"
+  },
+  "homepage": "https://github.com/mlmrmail/ED#readme"
+}
